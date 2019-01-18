@@ -43,6 +43,7 @@
 - [Peter Treitler](https://github.com/ptreitler)
 - [Tushar](https://github.com/tusharc2n)
   [Abi Castro]
+- [Sandra Karl](https://github.com/snads)
 - [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 - [Tomas Vera](https://github.com/tomasvera24)
 - [Julianna Diaz](https://github.com/Juldays)
